@@ -1,1 +1,2 @@
-project 0x01-git
+# ALX-Pre Course
+## 0x01. Git
